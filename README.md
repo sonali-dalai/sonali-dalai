@@ -18,7 +18,7 @@ To utilize my skills and abilities in the Information Technology industry that o
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-blue" alt="C" />
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   <img src="https://img.shields.io/badge/Java-red" alt="JAVA" />
   <img src="https://img.shields.io/badge/Golang-blue" alt="Golang" />
 </p>
