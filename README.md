@@ -1,6 +1,5 @@
 # Sonali Dalai 👩‍💻
 
-![Banner Image](<Link to a banner image if you have one>)
 
 ---
 
@@ -59,12 +58,6 @@ To utilize my skills and abilities in the Information Technology industry that o
 
 ---
 
-## Education 🎓
-
-- **MCA in Computer Science** from Gangadhar Meher University, Sambalpur with 74.83%.
-
----
-
 ## Projects 📂
 
 - **HR Management Website:** Designed a Hotel Management website using HTML, CSS, Bootstrap, and PHP.
@@ -81,13 +74,7 @@ To utilize my skills and abilities in the Information Technology industry that o
 
 ---
 
-## Contact 📞
 
-**Permanent Address:**  
-At- Salijanga, Post- Salijanga, Dist.- Jajpur,  
-State- Odisha, Pin code- 755026
-
----
 
 ⭐️ From [SonaliDalai](https://github.com/sonali-dalai)
 
