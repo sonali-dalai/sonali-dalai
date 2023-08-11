@@ -18,49 +18,49 @@ To utilize my skills and abilities in the Information Technology industry that o
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="<Link to C badge from shields.io>" alt="C" />
-  <img src="<Link to JAVA badge from shields.io>" alt="JAVA" />
-  <img src="<Link to Golang badge from shields.io>" alt="Golang" />
+  <img src="https://img.shields.io/badge/C-blue" alt="C" />
+  <img src="https://img.shields.io/badge/Java-red" alt="JAVA" />
+  <img src="https://img.shields.io/badge/Golang-blue" alt="Golang" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="<Link to ORACLE 19C badge from shields.io>" alt="ORACLE 19C" />
-  <img src="<Link to PL/SQL badge from shields.io>" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/Oracle 19C-red" alt="ORACLE 19C" />
+  <img src="https://img.shields.io/badge/PL/SQL-yellow" alt="PL/SQL" />
 </p>
 
 <h3 align="center">Web Technologies</h3>
 <p align="center">
-  <img src="<Link to HTML badge from shields.io>" alt="HTML" />
-  <img src="<Link to CSS badge from shields.io>" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS" />
 </p>
 
 <h3 align="center">Scripting Language</h3>
 <p align="center">
-  <img src="<Link to JAVASCRIPT badge from shields.io>" alt="JAVASCRIPT" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JAVASCRIPT" />
 </p>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <img src="<Link to Windows 10 badge from shields.io>" alt="Windows 10" />
-  <img src="<Link to LINUX (UBUNTU) badge from shields.io>" alt="LINUX (UBUNTU)" />
+  <img src="https://img.shields.io/badge/Windows 10-blue" alt="Windows 10" />
+  <img src="https://img.shields.io/badge/Linux (Ubuntu)-green" alt="LINUX (UBUNTU)" />
 </p>
 
 <h3 align="center">IDE</h3>
 <p align="center">
-  <img src="<Link to ECLIPSE badge from shields.io>" alt="ECLIPSE" />
-  <img src="<Link to VS CODE badge from shields.io>" alt="VS CODE" />
+  <img src="https://img.shields.io/badge/Eclipse-purple" alt="ECLIPSE" />
+  <img src="https://img.shields.io/badge/VS Code-blue" alt="VS CODE" />
 </p>
 
 <h3 align="center">Web Server</h3>
 <p align="center">
-  <img src="<Link to APACHE TOMCAT badge from shields.io>" alt="APACHE TOMCAT" />
+  <img src="https://img.shields.io/badge/Apache Tomcat-red" alt="APACHE TOMCAT" />
 </p>
 
 <h3 align="center">Containerization</h3>
 <p align="center">
-  <img src="<Link to Docker badge from shields.io>" alt="Docker" />
-  <img src="<Link to Kubernetes badge from shields.io>" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-blue" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-green" alt="Kubernetes" />
 </p>
 
 ---
