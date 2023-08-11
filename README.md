@@ -2,12 +2,6 @@
 
 ![Banner Image](<Link to a banner image if you have one>)
 
-📍 **Residence:** Jajpur, Odisha, India  
-🎂 **Birth Date:** 27-03-1998  
-📧 **Corporate Email:** [sonali.dalai@capgemini.com](mailto:sonali.dalai@capgemini.com)  
-📧 **Personal Email:** [sonalidalai39@gmail.com](mailto:sonalidalai39@gmail.com)  
-📞 **Mobile:** 9348249951  
-
 ---
 
 ## About Me 🚀
